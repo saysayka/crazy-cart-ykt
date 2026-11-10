@@ -1,0 +1,3 @@
+   User-agent: *
+   Allow: /
+   Sitemap: https://saysayka.github.io/crazy-cart-ykt/sitemap.xml
