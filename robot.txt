@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Запрет сканирования служебных путей (если они появятся)
+Disallow: /admin/
+Disallow: /private/
+
+# Указание пути к карте сайта
+Sitemap: https://github.com/saysayka/crazy-cart-ykt.git/sitemap.xml
